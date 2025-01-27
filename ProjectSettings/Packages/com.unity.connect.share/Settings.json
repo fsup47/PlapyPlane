@@ -19,7 +19,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/FiratSaüCompSci/Documents/unityproj/Test_0.1_Game/Builds/0.11test;C:/Users/FiratSaüCompSci/Documents/unityproj/Test_0.1_Game/WebGL Builds;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"E:/githubfil/PlapyPlane/Builds/0.11test;C:/Users/FiratSaüCompSci/Documents/unityproj/Test_0.1_Game/Builds/0.11test;C:/Users/FiratSaüCompSci/Documents/unityproj/Test_0.1_Game/WebGL Builds;;;;;;;\"}"
             }
         ]
     }
