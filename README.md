@@ -21,6 +21,7 @@ Kaynaklar (Source)
 2.) https://pixabay.com/sound-effects/menu-53679/ 
 3.) https://pixabay.com/sound-effects/game-music-loop-1-143979/ 
 4.) https://kenney.nl/assets/digital-audio
+5.) https://pixabay.com/sound-effects/086398-game-die-81356/
 
 
 Bu oyun sadece öğrenmek amaçlı yapılmıştır. Ticari amaç için değildir.
