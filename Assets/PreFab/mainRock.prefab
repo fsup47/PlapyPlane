@@ -96,7 +96,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5956406180537525126}
-  - component: {fileID: 3577619660998373893}
   m_Layer: 0
   m_Name: mainRock
   m_TagString: Untagged
@@ -123,22 +122,6 @@ Transform:
   - {fileID: 7594161153444535427}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3577619660998373893
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1554186715980231948}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 86d615660b09be544af69917b3b46048, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rockis: {fileID: 6182207200794650945}
-  plane: {fileID: 1196620767823996541}
-  cloud: {fileID: 8606107052212464653}
-  cloud2: {fileID: 762754956052267763}
 --- !u!1 &4871036223030100161
 GameObject:
   m_ObjectHideFlags: 0
@@ -165,7 +148,7 @@ Transform:
   m_GameObject: {fileID: 4871036223030100161}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.75, y: 4, z: 0}
+  m_LocalPosition: {x: 1.79, y: 3.76, z: 0}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -252,8 +235,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.8, y: 1.8, z: 1.8}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 4590245722151381812}
   - {fileID: 7085912461462985730}
@@ -285,8 +268,8 @@ Transform:
   m_GameObject: {fileID: 8207193161844106889}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_LocalPosition: {x: 0.02, y: -0.73, z: 0}
+  m_LocalScale: {x: 1.5, y: 1.55055, z: 1.5}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 4857186910865641533}
@@ -494,11 +477,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6e56f2955852b6a48844cc69921cd963, type: 3}
---- !u!1 &1196620767823996541 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2285001903557531708, guid: 6e56f2955852b6a48844cc69921cd963, type: 3}
-  m_PrefabInstance: {fileID: 1094010910179229249}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7594161153444535427 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7371641027628868290, guid: 6e56f2955852b6a48844cc69921cd963, type: 3}
